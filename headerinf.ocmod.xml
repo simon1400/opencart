@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modification>
+	<code>headerinf</code>
+	<name>Header Information</name>
+	<version>1.0</version>
+	<author>Dmytro Pechunka</author>
+	<link></link>
+	<file path="catalog/controller/common/header.php">
+		<operation>
+			<search><![CDATA[
+
+			]]></search>
+			<add position="after"><![CDATA[
+
+			]]></add>
+		</operation>
+	</file>
+</modification>
